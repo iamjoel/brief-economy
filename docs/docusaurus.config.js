@@ -7,7 +7,7 @@ const config = {
   title: '简明经济学',
   tagline: '',
   url: 'https://github.com/iamjoel',
-  baseUrl: '/',
+  baseUrl: '/brief-economy/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
